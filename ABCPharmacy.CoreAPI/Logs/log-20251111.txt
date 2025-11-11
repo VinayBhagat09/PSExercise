@@ -1,0 +1,63 @@
+2025-11-11 15:57:04.391 +05:30 [INF] Now listening on: https://localhost:7047
+2025-11-11 15:57:04.489 +05:30 [INF] Now listening on: http://localhost:5209
+2025-11-11 15:57:04.496 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-11 15:57:04.498 +05:30 [INF] Hosting environment: Development
+2025-11-11 15:57:04.500 +05:30 [INF] Content root path: D:\Assignment\ABCPharmacy\ABCPharmacy.CoreAPI
+2025-11-11 15:57:06.926 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/swagger/index.html - null null
+2025-11-11 15:57:07.553 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/swagger/index.html - 200 null text/html;charset=utf-8 652.2114ms
+2025-11-11 15:57:07.609 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/_vs/browserLink - null null
+2025-11-11 15:57:07.609 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/_framework/aspnetcore-browser-refresh.js - null null
+2025-11-11 15:57:07.648 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 38.3144ms
+2025-11-11 15:57:07.753 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/_vs/browserLink - 200 null text/javascript; charset=UTF-8 146.0351ms
+2025-11-11 15:57:07.837 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/swagger/v1/swagger.json - null null
+2025-11-11 15:57:08.101 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 264.4118ms
+2025-11-11 15:57:57.647 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/api/Medicines - null null
+2025-11-11 15:57:57.721 +05:30 [INF] Executing endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 15:57:57.795 +05:30 [INF] Route matched with {action = "GetAll", controller = "Medicines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAll() on controller ABCPharmacy.CoreAPI.Controllers.MedicinesController (ABCPharmacy.CoreAPI).
+2025-11-11 15:57:58.246 +05:30 [INF] Executing OkObjectResult, writing value of type 'ABCPharmacy.CoreAPI.Models.DTOs.ResponseDTO'.
+2025-11-11 15:57:58.294 +05:30 [INF] Executed action ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI) in 484.6088ms
+2025-11-11 15:57:58.297 +05:30 [INF] Executed endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 15:57:58.302 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/api/Medicines - 200 null application/json; charset=utf-8 655.7933ms
+2025-11-11 15:58:20.378 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/api/SalesRecord - null null
+2025-11-11 15:58:20.388 +05:30 [INF] Executing endpoint 'ABCPharmacy.CoreAPI.Controllers.SalesRecordController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 15:58:20.448 +05:30 [INF] Route matched with {action = "GetAll", controller = "SalesRecord"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAll() on controller ABCPharmacy.CoreAPI.Controllers.SalesRecordController (ABCPharmacy.CoreAPI).
+2025-11-11 15:58:20.503 +05:30 [INF] Fetched 1 sales records
+2025-11-11 15:58:20.517 +05:30 [INF] Executing OkObjectResult, writing value of type 'ABCPharmacy.CoreAPI.Models.DTOs.ResponseDTO'.
+2025-11-11 15:58:20.527 +05:30 [INF] Executed action ABCPharmacy.CoreAPI.Controllers.SalesRecordController.GetAll (ABCPharmacy.CoreAPI) in 72.4859ms
+2025-11-11 15:58:20.530 +05:30 [INF] Executed endpoint 'ABCPharmacy.CoreAPI.Controllers.SalesRecordController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 15:58:20.533 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/api/SalesRecord - 200 null application/json; charset=utf-8 155.422ms
+2025-11-11 16:04:52.906 +05:30 [INF] Now listening on: https://localhost:7047
+2025-11-11 16:04:53.017 +05:30 [INF] Now listening on: http://localhost:5209
+2025-11-11 16:04:53.038 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-11 16:04:53.041 +05:30 [INF] Hosting environment: Development
+2025-11-11 16:04:53.045 +05:30 [INF] Content root path: D:\Assignment\ABCPharmacy\ABCPharmacy.CoreAPI
+2025-11-11 16:04:55.643 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/swagger/index.html - null null
+2025-11-11 16:04:57.175 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/swagger/index.html - 200 null text/html;charset=utf-8 1886.4667ms
+2025-11-11 16:04:57.306 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/_vs/browserLink - null null
+2025-11-11 16:04:57.306 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/_framework/aspnetcore-browser-refresh.js - null null
+2025-11-11 16:04:57.421 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 114.4202ms
+2025-11-11 16:04:57.647 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/_vs/browserLink - 200 null text/javascript; charset=UTF-8 340.8626ms
+2025-11-11 16:04:57.733 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/swagger/v1/swagger.json - null null
+2025-11-11 16:04:58.145 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 412.8446ms
+2025-11-11 16:05:03.655 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/api/Medicines - null null
+2025-11-11 16:05:03.690 +05:30 [INF] Executing endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 16:05:03.751 +05:30 [INF] Route matched with {action = "GetAll", controller = "Medicines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAll() on controller ABCPharmacy.CoreAPI.Controllers.MedicinesController (ABCPharmacy.CoreAPI).
+2025-11-11 16:05:04.089 +05:30 [INF] Executing OkObjectResult, writing value of type 'ABCPharmacy.CoreAPI.Models.DTOs.ResponseDTO'.
+2025-11-11 16:05:04.137 +05:30 [INF] Executed action ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI) in 377.4477ms
+2025-11-11 16:05:04.146 +05:30 [INF] Executed endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 16:05:04.153 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/api/Medicines - 200 null application/json; charset=utf-8 498.1104ms
+2025-11-11 16:05:53.459 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7047/api/Medicines - application/json 149
+2025-11-11 16:05:53.491 +05:30 [INF] Executing endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.AddAsync (ABCPharmacy.CoreAPI)'
+2025-11-11 16:05:53.566 +05:30 [INF] Route matched with {action = "Add", controller = "Medicines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] AddAsync(ABCPharmacy.CoreAPI.Models.DTOs.Medicine.CreateUpdateMedicineDTO) on controller ABCPharmacy.CoreAPI.Controllers.MedicinesController (ABCPharmacy.CoreAPI).
+2025-11-11 16:05:54.062 +05:30 [INF] Medicine added successfully with ID 3
+2025-11-11 16:05:54.066 +05:30 [INF] Executing OkObjectResult, writing value of type 'ABCPharmacy.CoreAPI.Models.DTOs.ResponseDTO'.
+2025-11-11 16:05:54.072 +05:30 [INF] Executed action ABCPharmacy.CoreAPI.Controllers.MedicinesController.AddAsync (ABCPharmacy.CoreAPI) in 502.1426ms
+2025-11-11 16:05:54.077 +05:30 [INF] Executed endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.AddAsync (ABCPharmacy.CoreAPI)'
+2025-11-11 16:05:54.080 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7047/api/Medicines - 200 null application/json; charset=utf-8 620.7341ms
+2025-11-11 16:06:07.183 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7047/api/Medicines - null null
+2025-11-11 16:06:07.188 +05:30 [INF] Executing endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 16:06:07.191 +05:30 [INF] Route matched with {action = "GetAll", controller = "Medicines"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAll() on controller ABCPharmacy.CoreAPI.Controllers.MedicinesController (ABCPharmacy.CoreAPI).
+2025-11-11 16:06:07.205 +05:30 [INF] Executing OkObjectResult, writing value of type 'ABCPharmacy.CoreAPI.Models.DTOs.ResponseDTO'.
+2025-11-11 16:06:07.208 +05:30 [INF] Executed action ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI) in 13.6267ms
+2025-11-11 16:06:07.211 +05:30 [INF] Executed endpoint 'ABCPharmacy.CoreAPI.Controllers.MedicinesController.GetAll (ABCPharmacy.CoreAPI)'
+2025-11-11 16:06:07.213 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7047/api/Medicines - 200 null application/json; charset=utf-8 30.7142ms

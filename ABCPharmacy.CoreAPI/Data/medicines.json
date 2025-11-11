@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "MedicineName": "test",
+    "Notes": "test",
+    "ExpiryDate": "2028-11-09",
+    "Quantity": 1,
+    "Price": 100,
+    "Brand": "cipla"
+  },
+  {
+    "Id": 2,
+    "MedicineName": "trr",
+    "Notes": "test",
+    "ExpiryDate": "2058-11-09",
+    "Quantity": 1,
+    "Price": 10,
+    "Brand": "string"
+  },
+  {
+    "Id": 3,
+    "MedicineName": "Test4",
+    "Notes": "test",
+    "ExpiryDate": "2029-11-11",
+    "Quantity": 10,
+    "Price": 169,
+    "Brand": "DR Reddy"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cw2A1hEmOFJxIAS4ybVIgsrVLM39oNP6s3riAI4IwmM=",
+  "Source": "ABCPharmacy.CoreAPI",
+  "BasePath": "_content/ABCPharmacy.CoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

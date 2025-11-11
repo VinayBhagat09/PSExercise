@@ -1,0 +1,6 @@
+@ABCPharmacy.CoreAPI_HostAddress = http://localhost:5209
+
+GET {{ABCPharmacy.CoreAPI_HostAddress}}/api/medicines/
+Accept: application/json
+
+###

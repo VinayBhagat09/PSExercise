@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "MedicineName": "test",
+    "Notes": "test",
+    "ExpiryDate": "2028-11-09",
+    "Quantity": 1,
+    "Price": 100,
+    "Brand": "cipla"
+  },
+  {
+    "Id": 2,
+    "MedicineName": "trr",
+    "Notes": "test",
+    "ExpiryDate": "2058-11-09",
+    "Quantity": 1,
+    "Price": 10,
+    "Brand": "string"
+  }
+]
